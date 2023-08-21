@@ -9,6 +9,7 @@
 void puts2(char *str)
 
 {
+
 	int i;
 	int j = 0;
 
@@ -23,4 +24,3 @@ void puts2(char *str)
 	}
 	_putchar('\n');
 }
-
